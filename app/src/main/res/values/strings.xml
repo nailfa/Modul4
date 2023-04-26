@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Modul4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama">Naufal Ilham Fatikh</string>
+    <string name="nim">NIM 210441100096</string>
+    <string name="umur">Umur 19 Tahun</string>
+    <string name="alamat">Alamat Pasuruan</string>
+</resources>
